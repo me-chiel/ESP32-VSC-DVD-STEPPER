@@ -14,6 +14,4 @@ Be sure to dicover the coil-sets on the stepper motor. This is important.
 - [x] Test if the motor driver works.
 - [x] Connect ESP32
 - [x] Save everything to Github
-- [ ] Finish every details :tada:
-
-![gifanim](/assets/images/DVDmotor.gif)
+- [ ] Finish all other details :tada:
