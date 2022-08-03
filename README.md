@@ -11,8 +11,9 @@ Here is the connection diagram you can use:
 ![FRITZINGG](/assets/images/fritz.png)
 
 Be sure to dicover the coil-sets on the stepper motor. This is important.
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Test if the motor driver works.
+- [x] Connect ESP32
+- [x] Save everything to Github
+- [ ] Finish every details :tada:
 
-![gifanim](/assets/images/DVDmotor.mp4)
+![gifanim](/assets/images/DVDmotor.gif)
