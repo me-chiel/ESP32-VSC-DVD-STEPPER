@@ -11,6 +11,8 @@ void setup()
   pinMode(stepperPin, OUTPUT);
 }
 
+//send commands to stepper driver with Direction and number of steps.
+//delay isn't the best way to pause, but it works in this example
 void step(boolean dir, int steps)
 {
   digitalWrite(dirPin, dir);
@@ -33,4 +35,8 @@ void loop()
   delay(500);
   step(false, 2500);
   delay(500);
+  step(true, 250);
+  delay(250);
+  step(false, 200);
+  delay(250);
 }
