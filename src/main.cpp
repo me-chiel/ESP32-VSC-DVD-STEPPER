@@ -39,4 +39,9 @@ void loop()
   delay(250);
   step(false, 200);
   delay(250);
+  step(true, 100);
+  delay(50);
+  step(false, 50);
+  delay(50);
+  
 }
